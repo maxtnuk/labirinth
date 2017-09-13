@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bluetooth_spp_padding">5dp</dimen>
+    <dimen name="bluetooth_spp_text_size">18sp</dimen>
+    <string name="app_name">Labyrinth</string>
+    <style name="UnityThemeSelector" parent="android:Theme.Light.NoTitleBar.Fullscreen">
+</style>
+</resources>

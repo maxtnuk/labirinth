@@ -1,0 +1,302 @@
+[
+    {
+        "outputFile": "/home/maxtnt/my_workspace/hardware_study/final1/game2/D:\\Workspace\\newfolder2\\test2\\final1\\game2\\usbSerialExamples\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "/home/maxtnt/my_workspace/hardware_study/final1/game2/D:\\Workspace\\newfolder2\\test2\\final1\\game2\\usbSerialExamples\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 51,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 56,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "/home/maxtnt/my_workspace/hardware_study/final1/game2/D:\\Workspace\\newfolder2\\test2\\final1\\game2\\usbSerialExamples\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 56,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 52,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "/home/maxtnt/my_workspace/hardware_study/final1/game2/D:\\Workspace\\newfolder2\\test2\\final1\\game2\\usbSerialExamples\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 52,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endColumn": 64,
+                    "endOffset": 277
+                },
+                "from": {
+                    "file": "/home/maxtnt/my_workspace/hardware_study/final1/game2/D:\\Workspace\\newfolder2\\test2\\final1\\game2\\usbSerialExamples\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 64,
+                        "endOffset": 339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 282,
+                    "endColumn": 60,
+                    "endOffset": 338
+                },
+                "from": {
+                    "file": "/home/maxtnt/my_workspace/hardware_study/final1/game2/D:\\Workspace\\newfolder2\\test2\\final1\\game2\\usbSerialExamples\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 60,
+                        "endOffset": 274
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/usbSerialExamples/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "/mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/usbSerialExamples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 51,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 56,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "/mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/usbSerialExamples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 56,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 52,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "/mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/usbSerialExamples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 52,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endColumn": 64,
+                    "endOffset": 277
+                },
+                "from": {
+                    "file": "/mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/usbSerialExamples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 64,
+                        "endOffset": 339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 282,
+                    "endColumn": 60,
+                    "endOffset": 338
+                },
+                "from": {
+                    "file": "/mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/usbSerialExamples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 60,
+                        "endOffset": 274
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/mnt/my_data/my place/hardware_study/final1/game2/usbSerialExamples/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "/mnt/my_data/my place/hardware_study/final1/game2/usbSerialExamples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 51,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 56,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "/mnt/my_data/my place/hardware_study/final1/game2/usbSerialExamples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 56,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 52,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "/mnt/my_data/my place/hardware_study/final1/game2/usbSerialExamples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 52,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endColumn": 64,
+                    "endOffset": 277
+                },
+                "from": {
+                    "file": "/mnt/my_data/my place/hardware_study/final1/game2/usbSerialExamples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 64,
+                        "endOffset": 339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 282,
+                    "endColumn": 60,
+                    "endOffset": 338
+                },
+                "from": {
+                    "file": "/mnt/my_data/my place/hardware_study/final1/game2/usbSerialExamples/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 60,
+                        "endOffset": 274
+                    }
+                }
+            }
+        ]
+    }
+]

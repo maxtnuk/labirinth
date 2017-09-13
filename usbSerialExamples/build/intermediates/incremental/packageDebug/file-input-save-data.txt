@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Wed Sep 13 13:19:09 KST 2017
+2.base=/mnt/my_data/my place/hardware_study/final1/game2/usbSerialExamples/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+5.file=/mnt/my_data/my place/hardware_study/final1/game2/usbSerialExamples/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=/mnt/my_data/my place/hardware_study/final1/game2/usbSerialExamples/build/intermediates/res/resources-debug.ap_
+6.file=/mnt/my_data/my place/hardware_study/final1/game2/usbSerialExamples/build/intermediates/res/resources-debug.ap_/resources.arsc
+2.set=DEX
+4.base=/mnt/my_data/my place/hardware_study/final1/game2/usbSerialExamples/build/intermediates/res/resources-debug.ap_
+7.file=/mnt/my_data/my place/hardware_study/final1/game2/usbSerialExamples/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=/mnt/my_data/my place/hardware_study/final1/game2/usbSerialExamples/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+5.base=/mnt/my_data/my place/hardware_study/final1/game2/usbSerialExamples/build/intermediates/res/resources-debug.ap_
+8.file=/mnt/my_data/my place/hardware_study/final1/game2/usbSerialExamples/build/intermediates/res/resources-debug.ap_/res/drawable-ldpi-v4/ic_launcher.png
+4.set=ANDROID_RESOURCE
+6.base=/mnt/my_data/my place/hardware_study/final1/game2/usbSerialExamples/build/intermediates/res/resources-debug.ap_
+1.file=/mnt/my_data/my place/hardware_study/final1/game2/usbSerialExamples/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/ic_launcher.png
+1.set=ANDROID_RESOURCE
+7.base=/mnt/my_data/my place/hardware_study/final1/game2/usbSerialExamples/build/intermediates/res/resources-debug.ap_
+2.file=/mnt/my_data/my place/hardware_study/final1/game2/usbSerialExamples/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+6.set=ANDROID_RESOURCE
+0.base=/mnt/my_data/my place/hardware_study/final1/game2/usbSerialExamples/build/intermediates/res/resources-debug.ap_
+8.base=/mnt/my_data/my place/hardware_study/final1/game2/usbSerialExamples/build/intermediates/res/resources-debug.ap_
+3.file=/mnt/my_data/my place/hardware_study/final1/game2/usbSerialExamples/build/intermediates/res/resources-debug.ap_/res/xml/device_filter.xml
+3.set=ANDROID_RESOURCE
+1.base=/mnt/my_data/my place/hardware_study/final1/game2/usbSerialExamples/build/intermediates/res/resources-debug.ap_
+4.file=/mnt/my_data/my place/hardware_study/final1/game2/usbSerialExamples/build/intermediates/res/resources-debug.ap_/res/layout/serial_console.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

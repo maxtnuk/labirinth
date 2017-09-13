@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/mnt/my_data/my place/hardware_study/final1/game2/libs/unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="632e44dcdc012164827d96f08e88b307d2bfa047">
+        <dex dex="/mnt/my_data/my place/hardware_study/final1/game2/build/intermediates/transforms/dex/debug/folders/1000/2/unity-classes_e32144297ee687e5b43791dcd56529449ed96763/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/mnt/my_data/my place/hardware_study/final1/game2/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/mnt/my_data/my place/hardware_study/final1/game2/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_21b74bac0935361078968ff4129f93eff118e754/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/mnt/my_data/my place/hardware_study/final1/game2/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9d20c65e9a46c0be6a6238002eacf8dab46ac75b">
+        <dex dex="/mnt/my_data/my place/hardware_study/final1/game2/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_23c0851d39f71305853a16fd6c5e70f6e7115478/classes.dex" />
+    </item>
+
+</items>

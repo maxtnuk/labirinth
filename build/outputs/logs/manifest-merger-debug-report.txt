@@ -1,0 +1,174 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:2:70-98
+		INJECTED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml
+		INJECTED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:2:146-171
+		INJECTED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml
+		INJECTED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:2:99-145
+	android:versionCode
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:2:172-195
+		INJECTED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml
+		INJECTED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:2:196-236
+supports-screens
+ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:3:135-160
+uses-permission#android.permission.BLUETOOTH
+ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:4:3-66
+MERGED from [com.akexorcist:bluetoothspp:1.0.0] /home/maxtnt/.android/build-cache/a7d83fa6310e7df4aa9b1160e5f05ed187e32747/output/AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:4:20-63
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:5:3-72
+MERGED from [com.akexorcist:bluetoothspp:1.0.0] /home/maxtnt/.android/build-cache/a7d83fa6310e7df4aa9b1160e5f05ed187e32747/output/AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:5:20-69
+application
+ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:6:3-43:17
+MERGED from [com.akexorcist:bluetoothspp:1.0.0] /home/maxtnt/.android/build-cache/a7d83fa6310e7df4aa9b1160e5f05ed187e32747/output/AndroidManifest.xml:10:5-12:19
+	android:label
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:6:92-124
+	android:icon
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:6:58-91
+	android:banner
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:6:147-184
+	android:theme
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:6:16-57
+	android:isGame
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:6:125-146
+activity#com.Daedalus.game2.DeviceListActivity
+ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:8:5-25:16
+	android:label
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:10:9-41
+	android:theme
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:11:9-73
+	android:name
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:9:9-61
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:12:7-17:23
+action#android.intent.action.MAIN
+ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:13:9-61
+	android:name
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:13:17-58
+category#android.intent.category.DEFAULT
+ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:15:9-68
+	android:name
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:15:19-65
+category#android.intent.category.LAUNCHER
+ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:16:9-69
+	android:name
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:16:19-66
+intent-filter#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:18:7-20:23
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:19:9-82
+	android:name
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:19:17-79
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:22:7-24:44
+	android:resource
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:24:11-41
+	android:name
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:23:11-73
+activity#com.Daedalus.game2.MainActivity
+ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:27:5-31:16
+	android:label
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:29:9-41
+	android:theme
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:30:9-73
+	android:name
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:28:9-55
+activity#com.Daedalus.game2.UnityPlayerActivity
+ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:35:5-42:16
+	android:screenOrientation
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:35:48-86
+	android:label
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:35:15-47
+	android:launchMode
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:35:87-118
+	android:configChanges
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:35:119-292
+	android:name
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:35:293-346
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.LEANBACK_LAUNCHER
+ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:36:7-40:23
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:39:9-78
+	android:name
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:39:19-75
+meta-data#unityplayer.UnityActivity
+ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:41:7-82
+	android:value
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:41:59-79
+	android:name
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:41:18-58
+uses-sdk
+ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:44:3-72
+MERGED from [com.hoho.android:usbSerialForAndroid:0.2.0-SNAPSHOT] /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/usbSerialForAndroid/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.felHR85:UsbSerial:4.5] /home/maxtnt/.android/build-cache/af0f06f22ea3887468d0b465b54556e6ee73e06f/output/AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:44:40-69
+		INJECTED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml
+		INJECTED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:44:13-39
+uses-feature#0x00020000
+ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:45:3-52
+	android:glEsVersion
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:45:17-49
+uses-feature#android.hardware.vulkan
+ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:46:3-83
+	android:required
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:46:56-80
+	android:name
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:46:17-55
+uses-permission#android.permission.INTERNET
+ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:47:3-65
+	android:name
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:47:20-62
+uses-feature#android.hardware.touchscreen
+ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:48:3-88
+	android:required
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:48:61-85
+	android:name
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:48:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:49:3-99
+	android:required
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:49:72-96
+	android:name
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:49:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:50:3-108
+	android:required
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:50:81-105
+	android:name
+		ADDED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:50:17-80
+activity#app.akexorcist.bluetotohspp.library.DeviceList
+ADDED from [com.akexorcist:bluetoothspp:1.0.0] /home/maxtnt/.android/build-cache/a7d83fa6310e7df4aa9b1160e5f05ed187e32747/output/AndroidManifest.xml:11:9-83
+	android:name
+		ADDED from [com.akexorcist:bluetoothspp:1.0.0] /home/maxtnt/.android/build-cache/a7d83fa6310e7df4aa9b1160e5f05ed187e32747/output/AndroidManifest.xml:11:19-80
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:2:1-51:12 reason: app.akexorcist.bluetotohspp.library has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:2:1-51:12 reason: app.akexorcist.bluetotohspp.library has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/AndroidManifest.xml:2:1-51:12 reason: app.akexorcist.bluetotohspp.library requested WRITE_EXTERNAL_STORAGE

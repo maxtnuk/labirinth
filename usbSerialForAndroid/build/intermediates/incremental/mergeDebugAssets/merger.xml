@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/usbSerialForAndroid/src/main/assets"/><source path="/mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/usbSerialForAndroid/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/usbSerialForAndroid/src/debug/assets"/></dataSet></merger>

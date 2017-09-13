@@ -1,0 +1,7 @@
+#Thu Sep 14 00:36:24 KST 2017
+base.0=/mnt/my_data/my place/hardware_study/final1/game2/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_21b74bac0935361078968ff4129f93eff118e754
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/mnt/my_data/my place/hardware_study/final1/game2/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_23c0851d39f71305853a16fd6c5e70f6e7115478/classes.dex
+base.1=/mnt/my_data/my place/hardware_study/final1/game2/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_23c0851d39f71305853a16fd6c5e70f6e7115478
+file.0=/mnt/my_data/my place/hardware_study/final1/game2/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_21b74bac0935361078968ff4129f93eff118e754/classes.dex

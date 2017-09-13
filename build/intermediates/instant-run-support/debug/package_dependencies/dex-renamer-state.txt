@@ -1,0 +1,10 @@
+#Thu Sep 14 00:36:24 KST 2017
+renamed.2=classes.dex
+renamed.1=classes3.dex
+renamed.0=classes2.dex
+base.2=/mnt/my_data/my place/hardware_study/final1/game2/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2cf3b8052c68f707c46031da775d2aa8dc5636b0
+base.1=/mnt/my_data/my place/hardware_study/final1/game2/build/intermediates/transforms/dex/debug/folders/1000/2/unity-classes_e32144297ee687e5b43791dcd56529449ed96763
+base.0=/mnt/my_data/my place/hardware_study/final1/game2/build/intermediates/transforms/dex/debug/folders/1000/10/classes_539ff53d5635f47f8eecbf6afb64306b7dfedc44
+file.2=/mnt/my_data/my place/hardware_study/final1/game2/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2cf3b8052c68f707c46031da775d2aa8dc5636b0/classes.dex
+file.1=/mnt/my_data/my place/hardware_study/final1/game2/build/intermediates/transforms/dex/debug/folders/1000/2/unity-classes_e32144297ee687e5b43791dcd56529449ed96763/classes.dex
+file.0=/mnt/my_data/my place/hardware_study/final1/game2/build/intermediates/transforms/dex/debug/folders/1000/10/classes_539ff53d5635f47f8eecbf6afb64306b7dfedc44/classes.dex

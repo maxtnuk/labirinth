@@ -1,0 +1,168 @@
+[
+    {
+        "outputFile": "/mnt/my_data/my place/hardware_study/final1/game2/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "/home/maxtnt/.android/build-cache/a7d83fa6310e7df4aa9b1160e5f05ed187e32747/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endColumn": 51,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 54,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "/home/maxtnt/.android/build-cache/a7d83fa6310e7df4aa9b1160e5f05ed187e32747/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 54,
+                        "endOffset": 328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 46,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "/mnt/my_data/my place/hardware_study/final1/game2/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 55,
+                        "endColumn": 44,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endLine": 6,
+                    "endColumn": 8,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "/mnt/my_data/my place/hardware_study/final1/game2/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 53,
+                        "endLine": 3,
+                        "endColumn": 8,
+                        "endOffset": 147
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "/home/maxtnt/.android/build-cache/a7d83fa6310e7df4aa9b1160e5f05ed187e32747/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endColumn": 51,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 54,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "/home/maxtnt/.android/build-cache/a7d83fa6310e7df4aa9b1160e5f05ed187e32747/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 54,
+                        "endOffset": 328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 46,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "/mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 55,
+                        "endColumn": 44,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endLine": 6,
+                    "endColumn": 8,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "/mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 53,
+                        "endLine": 3,
+                        "endColumn": 8,
+                        "endOffset": 147
+                    }
+                }
+            }
+        ]
+    }
+]

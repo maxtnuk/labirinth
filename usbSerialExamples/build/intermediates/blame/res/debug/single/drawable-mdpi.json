@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/mnt/my_data/my place/hardware_study/final1/game2/usbSerialExamples/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/mnt/my_data/my place/hardware_study/final1/game2/usbSerialExamples/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/usbSerialExamples/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/usbSerialExamples/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/maxtnt/my_workspace/hardware_study/final1/game2/D:\\Workspace\\newfolder2\\test2\\final1\\game2\\usbSerialExamples\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "/home/maxtnt/my_workspace/hardware_study/final1/game2/D:\\Workspace\\newfolder2\\test2\\final1\\game2\\usbSerialExamples\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

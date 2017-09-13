@@ -1,0 +1,88 @@
+[
+    {
+        "outputFile": "/mnt/my_data/my place/hardware_study/인하 종합 결과물/labirinth/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/home/maxtnt/.android/build-cache/a7d83fa6310e7df4aa9b1160e5f05ed187e32747/output/res/values-sw720dp-land-v13/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endColumn": 52,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 54,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "/home/maxtnt/.android/build-cache/a7d83fa6310e7df4aa9b1160e5f05ed187e32747/output/res/values-sw720dp-land-v13/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 54,
+                        "endOffset": 342
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/mnt/my_data/my place/hardware_study/final1/game2/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/home/maxtnt/.android/build-cache/a7d83fa6310e7df4aa9b1160e5f05ed187e32747/output/res/values-sw720dp-land-v13/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endColumn": 52,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 54,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "/home/maxtnt/.android/build-cache/a7d83fa6310e7df4aa9b1160e5f05ed187e32747/output/res/values-sw720dp-land-v13/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 54,
+                        "endOffset": 342
+                    }
+                }
+            }
+        ]
+    }
+]
